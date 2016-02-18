@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: bcmail-jdk16-1.46.jar bcprov-jdk16-1.46.jar commons-codec-
+ 1.5.jar commons-logging-1.2.jar commons-httpclient-3.1.jar bcmail-jdk
+ 16-1.46.jar bcprov-jdk16-1.46.jar commons-codec-1.5.jar commons-loggi
+ ng-1.2.jar commons-httpclient-3.1.jar
+Main-Class: TokenInitializerTest
+
